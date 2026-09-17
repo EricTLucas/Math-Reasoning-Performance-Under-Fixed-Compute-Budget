@@ -1,0 +1,35 @@
+@misc{aime25,
+      title={American Invitational Mathematics Examination (AIME) 2025}, 
+      author={Zhang, Yifan and Math-AI, Team},
+      year={2025},
+}
+@misc{aime26,
+      title={American Invitational Mathematics Examination (AIME) 2026}, 
+      author={Zhang, Yifan and Math-AI, Team},
+      year={2026},
+}
+@misc{gao2024omnimathuniversalolympiadlevel,
+      title={Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models}, 
+      author={Bofei Gao and Feifan Song and Zhe Yang and Zefan Cai and Yibo Miao and Qingxiu Dong and Lei Li and Chenghao Ma and Liang Chen and Runxin Xu and Zhengyang Tang and Benyou Wang and Daoguang Zan and Shanghaoran Quan and Ge Zhang and Lei Sha and Yichang Zhang and Xuancheng Ren and Tianyu Liu and Baobao Chang},
+      year={2024},
+      eprint={2410.07985},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.07985}, 
+}
+@article{dekoninck2026matharena,
+      title={Beyond Benchmarks: MathArena as an Evaluation Platform for Mathematics with LLMs}, 
+      author={Jasper Dekoninck and Nikola Jovanović and Tim Gehrunger and Kári Rögnvaldsson and Ivo Petrov and Chenhao Sun and Martin Vechev},
+      year={2026},
+      eprint={2605.00674},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.00674}, 
+}
+@misc{
+    title={1st Place Solution for the AIMO3 Competition},
+    author={Exalted Joseph}
+    url={https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/writeups/1st-place-solution-for-the-aimo3-competition},
+    year={2026},
+    journal={Kaggle}
+}
